@@ -3,7 +3,7 @@ def using_concat(first,second)
 end
 
 def using_insert(array,blob) 
-  array.insert(4, 99)
+  array.insert(4, blob)
 end
 
   
